@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "Finch Bookmarks",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "finch-exp",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "This extension is a example extension of finch graphql.",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "Finch Example",
+    "description": "The title of the browser action button"
+  }
+}

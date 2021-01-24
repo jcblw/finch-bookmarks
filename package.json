@@ -1,0 +1,20 @@
+{
+  "name": "finch-bookmarks",
+  "version": "0.0.1",
+  "description": "This extension is a example extension of finch graphql.",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.1.4",
+    "finch-graphql": "^0.3.3",
+    "graphql": "^15.4.0",
+    "graphql-tag": "^2.11.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
